@@ -1,0 +1,7 @@
+pandas
+xgboost
+fastapi
+uvicorn
+confluent-kafka
+joblib
+requests
